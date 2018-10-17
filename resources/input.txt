@@ -1,0 +1,7 @@
+C:\MagicE\ecplise_workspace\ZMM_Python\venv\Scripts\python.exe C:/MagicE/ecplise_workspace/ZMM_Python/ZMM_Python.py
+Traceback (most recent call last):
+  File "C:/MagicE/ecplise_workspace/ZMM_Python/ZMM_Python.py", line 3, in <module>
+    input = open("input.txt")
+FileNotFoundError: [Errno 2] No such file or directory: 'input.txt'
+
+Process finished with exit code 1
